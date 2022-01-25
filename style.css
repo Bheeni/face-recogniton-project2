@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(137, 219, 219);
+}
+
+.button{
+    background-color: salmon;
+    border-radius: 30%;
+}
